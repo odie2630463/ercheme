@@ -6,7 +6,6 @@ little Lisp/Scheme implement on Erlang
 ##How to test it 
 in Erlang Shell
 
-<<<<<<< HEAD
 	% compile leex & yecc
 	>cd(yourdir).
 	>leex:file(scanner).
@@ -17,9 +16,6 @@ in Erlang Shell
 	>c(ercheme).
 	
 	% run ercheme repl
-=======
-	>cd(yourdir).
->>>>>>> FETCH_HEAD
 	>ercheme:repl([]).
 	>>> 5
 	{5,[]}
