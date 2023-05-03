@@ -1,9 +1,8 @@
-ercheme
-=======
+# ercheme
 
 little Lisp/Scheme implement on Erlang
-***
-##How to test it 
+
+## How to test it 
 in Erlang Shell
 
 	% compile leex & yecc
